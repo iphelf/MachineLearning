@@ -9,7 +9,7 @@
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/core/hal/interface.h>
 #include <opencv2/core/eigen.hpp>
-#include "src/regression/LinearRegression.h"
+#include "src/regression/linearregression.h"
 using namespace cv;
 using namespace Eigen;
 using namespace std;

@@ -7,10 +7,12 @@ SOURCES += \
         src\main.cpp
 
 HEADERS += \
+    src/decisiontree/decisiontree.h \
+    src/demo/decisiontreedemo.h \
     src/demo/orl.h \
     src/demo/watermelon.h \
-    src/regression/LinearRegression.h \
-    src/regression/LogitRegression.h \
+    src/regression/linearregression.h \
+    src/regression/logitregression.h \
     src/stdafx.h
 
 PRECOMPILED_HEADER += src/stdafx.h

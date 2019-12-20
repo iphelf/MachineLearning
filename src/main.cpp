@@ -1,8 +1,8 @@
-#include "src/demo/orl.h"
-//#include "src/demo/watermelon.h"
+#include "src/demo/decisiontreedemo.h"
 
 int main(void) {
-    runOnORL(false);
-//    runOnWatermelon("watermelon-large.csv",false);
+    runWithDecisionTree("computersale.csv");
+    runWithDecisionTree("enroll.csv");
+    runWithDecisionTree("watermelon2.csv");
     return 0;
 }

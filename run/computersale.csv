@@ -1,0 +1,17 @@
+6 14 1 4 5
+如何高效识别出买家
+No. age income student credit Buyer
+1 <30 high no fair no
+2 <30 high no excellent no
+3 30~40 high no fair yes
+4 >40 medium no fair yes
+5 >40 low yes fair yes
+6 >40 low yes excellent no
+7 30~40 low yes excellent yes
+8 <30 medium no fair no
+9 <30 low yes fair yes
+10 >40 medium yes fair yes
+11 <30 medium yes excellent yes
+12 30~40 medium no excellent yes
+13 30~40 high yes fair yes
+14 >40 medium no excellent no

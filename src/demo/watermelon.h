@@ -4,7 +4,7 @@
 #include <cstdlib>
 #include <algorithm>
 #include <iostream>
-#include "src/regression/LogitRegression.h"
+#include "src/regression/logitregression.h"
 using namespace std;
 
 void generateWatermelonData() {
